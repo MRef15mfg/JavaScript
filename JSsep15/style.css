@@ -1,0 +1,18 @@
+body{
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.item{
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.pagination{
+  margin-top: 20px;
+}
+
+.pagination button{
+  margin: 5px;
+  padding: 8px 12px;
+}
